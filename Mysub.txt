@@ -36,4 +36,8 @@ vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?encryption=none&
 vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?encryption=none&security=tls&sni=de1-moryvpnbot.pages.dev&type=ws&host=de1-moryvpnbot.pages.dev&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048#1029
 vless://905b2467-3d01-42f8-946d-1fd5e576ba05@www.speedtest.net:443?encryption=none&security=tls&sni=vip.hackers855.sbs&fp=chrome&type=ws&host=vip.hackers855.sbs&path=%2F#1030
 trojan://auto@162.159.136.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#1031
-warp://188.114.97.63:1074/?ifp=5-10#@PewezaVPN#1032test
+warp://188.114.97.63:1074/?ifp=5-10#1032w
+warp://188.114.96.146:5956/?ifp=5-10#1033w
+warp://162.159.192.95:939/?ifp=5-10#1034w
+warp://188.114.96.252:942/?ifp=1-5#1035w
+warp://162.159.192.102:4177/?ifp=1-5#1036w
