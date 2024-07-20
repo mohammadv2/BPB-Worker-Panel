@@ -7,5 +7,12 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2a06:98c1:3121::3]:443?encryption=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2a06:98c1:3120::3]:443?encryption=none&security=tls&sni=BPb-WORKer-kHORDaD.PaGES.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=bpb-woRKEr-khordAD.pAGes.DeV&path=%2Faq0q6h7GeUbbu6Bx%3Fed%3D2560#Khordad%20-%20IP6
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?encryption=none&security=tls&sni=BpB-WorKeR-kHoRDAD.pAgeS.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=BPB-woRKer-KhordAD.PaGES.DEV&path=%2FxvohJJtIMQ5oXKds%3Fed%3D2560#Khordad%20-%20IP4
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?encryption=none&security=tls&sni=bPb-wOrKeR-KhoRdad.PAgEs.DEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=bpB-worKER-kHordaD.PAGEs.dev&path=%2FR7thziArVLzirlHe%3Fed%3D2560#Khordad%20-%20IP4
-#khordad Fragment
-https://bpb-worker-khordad.pages.dev/fragsub/89b3cbba-e6ac-485a-9481-976a0415eab9#BPB Fragment
+
+#Eslami
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@bpb-eslami.pages.dev:443?encryption=none&security=tls&sni=BPB-eSLAmI.PAgES.DEV&alpn=http%2F1.1&fp=randomized&type=ws&host=bPb-ESlami.PaGES.DEv&path=%2FCJKRUDXb7jLFYQH6%3Fed%3D2560#ESlami
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?encryption=none&security=tls&sni=bPB-eslAmI.pAgEs.DEv&alpn=http%2F1.1&fp=randomized&type=ws&host=BPb-ESLAmI.PAGes.DEV&path=%2FU05ZPuEt2JwSd1xV%3Fed%3D2560#Eslami%20-%20SpeedTest
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.79.19:443?encryption=none&security=tls&sni=BPB-eslAmi.pAgeS.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=BPB-EslAmi.pagES.DeV&path=%2FtGvsMBHTL4bdlEAV%3Fed%3D2560#Eslami%20-%20IP4
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.123:443?encryption=none&security=tls&sni=BpB-eslaMi.PAGeS.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=bPB-eSLaMI.pAGEs.DEV&path=%2Fw48kaI0f91Vs43a0%3Fed%3D2560#Eslami%20-%20IP4
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.133:443?encryption=none&security=tls&sni=bpB-eSLamI.pages.Dev&alpn=http%2F1.1&fp=randomized&type=ws&host=bpB-EsLaMi.pAGES.DeV&path=%2FhonPQ2ekDr1TK4AC%3Fed%3D2560#Eslami%20-%20IP4
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2606:4700:310c::ac42:2f85]:443?encryption=none&security=tls&sni=bPB-ESlaMI.pages.deV&alpn=http%2F1.1&fp=randomized&type=ws&host=bpB-eSLAMi.paGeS.dEV&path=%2FSuyDlqlZNuMqY4T8%3Fed%3D2560#Eslami%20-%20IP6
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2606:4700:310c::ac42:2c7b]:443?encryption=none&security=tls&sni=BPb-esLAMi.PAgeS.dEV&alpn=http%2F1.1&fp=randomized&type=ws&host=BpB-Eslami.PagES.DEv&path=%2FspUqmTczLSKajgdd%3Fed%3D2560#Eslami%20-%20IP6
