@@ -24,3 +24,7 @@ vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@104.17.53.18:443?encryption=none&se
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.19.171.4:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#1397
 trojan://4732adfa16c6450bbef87264e41332db@104.17.61.7:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#1418
 trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.19.159.14:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#1425
+vless://24347e96-912c-4f53-9c67-9cc895fc6fdf@185.146.173.20:2082?encryption=none&security=none&type=ws&host=h5.xn--gmq282ekfhyys3gs.com.&path=%2F#1205
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?encryption=none&security=tls&sni=www.Arizona.edu&type=ws&host=fraud.chase&path=%2F#1237
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?encryption=none&security=tls&sni=www.Arizona.edu&type=ws&host=fraud.chase&path=%2F#1259
+vless://Telegram-VPNCUSTOMIZE@www.parspack.com:80?encryption=none&security=none&type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE%3Fed%3D8080#1263
