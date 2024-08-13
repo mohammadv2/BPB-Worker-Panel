@@ -1,4 +1,4 @@
-vless://f2d62750-01ba-449c-be17-9e5b6453ba7c@85.133.202.88:2001?encryption=none&security=none&type=grpc#1
+
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?encryption=none&security=tls&sni=www.Arizona.edu&type=ws&host=fraud.chase&path=%2F#2
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?encryption=none&security=tls&sni=www.Arizona.edu&type=ws&host=fraud.chase&path=%2F#3
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?encryption=none&security=tls&sni=www.Arizona.edu&type=ws&host=fraud.chase&path=%2F%3Fed#4
@@ -9,5 +9,3 @@ vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@speedtest.org:80?encryption=none&se
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?encryption=none&security=tls&sni=speedtest.net&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=fraud.chase&path=%2F#9
 vless://baadfec3-75bd-4df0-ad6b-2ecdfdfe9d52@104.21.42.56:80?encryption=none&security=none&type=ws&host=worker-super-shape-975b.1011da65bb0ac5.workers.Dev&path=%2FTelegram%2Bchannel%2B%3A%2B%40pandavpntc#10
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?encryption=none&security=tls&sni=www.Arizona.edu&type=ws&host=fraud.chase&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048#11
-vless://877c4e3c-975a-453e-be2c-a9c9b267c219@185.146.173.252:8080?encryption=none&security=none&type=ws&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080#12
-vless://97ce59d9-7a8a-4ec7-bc70-a723f4254afe@www.speedtest.net:80?encryption=none&security=none&type=ws&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560#13
