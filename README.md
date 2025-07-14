@@ -1,78 +1,43 @@
-<h1 align="center">💦 BPB Panel</h1>
-
-### 🌏 Readme in [Farsi](README_fa.md)
-
-<p align="center">
-  <img src="docs/assets/images/Panel.jpg">
-</p>
-<br>
-
-## Introduction
-This project is dedicated to developing a user panel for the [Cloudflare-workers/pages proxy script](https://github.com/yonggekkk/Cloudflare-workers-pages-vless) created by [yonggekkk](https://github.com/yonggekkk). The panel offers two deployment options: 
-- **Worker** deployment
-- **Pages** deployment
-<br>
-
-🌟 If you found **BPB Panel** valuable, Your donations make all the difference 🌟
-- **USDT (BEP20):** `0x111EFF917E7cf4b0BfC99Edffd8F1AbC2b23d158`
-
-## Features
-
-1. **Free**: No cost involved.
-2. **User-Friendly Panel:** Designed for easy navigation, configuration and usage.
-3. **Protocols:** Provides VLESS, Trojan and Wireguard (Warp) protocols.
-4. **Warp Pro configs:** Optimized Warp for crucial circumstances.
-5. **Support Fragment:** Supports Fragment functionality for crucial network situations.
-6. **Full routing rules:** Bypassing Iran/China and LAN, Blocking QUIC, Porn, Ads, Malwares, Phishing...
-7. **Chain Proxy:** Capable of adding a chain proxy to fix IP.
-8. **Supports Wide Range of Clients:** Offers subscription links for Xray, Sing-box and Clash core clients.
-10. **Subscription Link (JSON):** Provides subscription link for JSON configs.
-11. **Password-Protected Panel:** Secure your panel with password protection.
-12. **Fully customizable:** Ability to use online scanner and setting up clean IP-domains, Proxy IP, setting DNS servers, choosing ports and protocols, Warp endpoints...
-<br>
-
-## How to use:
-- [Installation (Pages)](docs/pages_installation_fa.md)
-
-- [Installation (Worker)](docs/worker_installation_fa.md)
-
-- [Scanning Proxy IP](docs/proxy-ip-scanner.md)
-
-- [How to use](docs/configuration_fa.md)
-
-- [FAQ](docs/faq.md)
-<br>
-
-## Supported Clients
-| Client  | Version | Fragment | Warp Pro |
-| :-------------: | :-------------: | :-------------: | :-------------: |
-| **v2rayNG**  | 1.8.19 or higher  | :heavy_check_mark: | :x: |
-| **v2rayN**  | 6.42 or higher  | :heavy_check_mark: | :x: |
-| **v2rayN-PRO**  | 1.4 or higher  | :heavy_check_mark: | :heavy_check_mark: |
-| **Nekobox**  |   | :x: | :x: |
-| **Sing-box**  | 1.8.10 or higher  | :x: | :x: |
-| **Streisand**  |   | :heavy_check_mark: | :x: |
-| **V2Box**  |   | :x: | :x: |
-| **Shadowrocket**  |   | :x: | :x: |
-| **Nekoray**  |   | :heavy_check_mark: | :x: |
-| **Hiddify**  | 2.0.5 or higher  | :x: | :heavy_check_mark: |
-| **NikaNG**  |   | :heavy_check_mark: | :heavy_check_mark: |
-| **Clash Meta**  |   | :x: | :x: |
-| **Clash Verge Rev**  |   | :x: | :x: |
-| **FLClash**  |   | :x: | :x: |
-
-
----
-
-## Stargazers Over Time
-[![Stargazers Over Time](https://starchart.cc/bia-pain-bache/BPB-Worker-Panel.svg?variant=adaptive)](https://starchart.cc/bia-pain-bache/BPB-Worker-Panel)
-
----
-
-### Special Thanks
-- CF-vless code author [3Kmfi6HP](https://github.com/3Kmfi6HP/EDtunnel)
-- CF preferred IP program author [badafans](https://github.com/badafans/Cloudflare-IP-SpeedTest), [XIU2](https://github.com/XIU2/CloudflareSpeedTest)
-
----
-
-For a detailed tutorial on the core script, please refer to [Yongge’s blog and video tutorials](https://ygkkk.blogspot.com/2023/07/cfworkers-vless.html).
+vless://4b7e41a7-0c05-442a-9c92-28c37afc3eab@oxg8.aivideosurfers.com:5555?encryption=none&security=reality&sni=tgju.org&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9&allowInsecure=1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%AE%C2%AE%EF%B8%8FFinland%C2%A9%EF%B8%8FHelsinki%F0%9F%85%BF%EF%B8%8Fping%3A13.86ms
+vless://01c83d31-8215-4f85-b94b-8c64a92a040a@151.101.3.8:80?encryption=none&security=none&type=xhttp&host=joinshhproxybede.com&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy&mode=auto#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8%C2%AE%EF%B8%8FUnited%20States%C2%A9%EF%B8%8FSan%20Francisco%F0%9F%85%BF%EF%B8%8Fping%3A6.93ms
+vless://c3cbc7f0-4775-4493-a15e-1c3e7dbe07d5@151.101.242.172:80?encryption=none&security=none&type=xhttp&host=MoenTechProxy.global.ssl.fastly.net&path=%2FBeraghsa&mode=auto#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FStrasbourg%F0%9F%85%BF%EF%B8%8Fping%3A40.1ms
+vless://4b7e41a7-0c05-442a-9c92-28c37afc3eab@oxg6.aivideosurfers.com:9999?encryption=none&security=reality&sni=tgju.org&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9&allowInsecure=1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%AE%C2%AE%EF%B8%8FFinland%C2%A9%EF%B8%8FHelsinki%F0%9F%85%BF%EF%B8%8Fping%3A13.93ms
+vless://d62494a5-4feb-4422-9547-1050a907afa8@speedtestcustom.com:80?encryption=none&security=none&type=xhttp&host=take4.global.ssl.fastly.net&path=%2Fgftrdd%3Fed%3D2560&mode=auto#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8%C2%AE%EF%B8%8FUnited%20States%C2%A9%EF%B8%8FSan%20Francisco%F0%9F%85%BF%EF%B8%8Fping%3A7.1ms
+vless://4b7e41a7-0c05-442a-9c92-28c37afc3eab@oxg7.aivideosurfers.com:6666?encryption=none&security=reality&sni=tgju.org&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9&allowInsecure=1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%AE%C2%AE%EF%B8%8FFinland%C2%A9%EF%B8%8FHelsinki%F0%9F%85%BF%EF%B8%8Fping%3A14.42ms
+vless://199ff20d-9bb4-423a-b759-e538392a27b6@fv.samiion73.ir:8080?encryption=none&security=reality&sni=www.chatgpt.com&fp=chrome&pbk=TcTr1oUPAg6fEwLl8NdVInMRQOb-74dRRxh6gwbZVkw&sid=a3f994823291&allowInsecure=1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AA%F0%9F%87%B8%C2%AE%EF%B8%8FSpain%C2%A9%EF%B8%8FMadrid%F0%9F%85%BF%EF%B8%8Fping%3A55.46ms
+vless://393a70c9-d773-4e6f-9e3d-11e886fdaef0@acc.eternalping.ir:989?encryption=none&security=tls&sni=acc.eternalping.ir&alpn=h2&allowInsecure=1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B7%C2%AE%EF%B8%8FIran%C2%A9%EF%B8%8FTehr%C4%81n%F0%9F%85%BF%EF%B8%8Fping%3A103.51ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FParis%F0%9F%85%BF%EF%B8%8Fping%3A43.05ms
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=IyFpLkXk10.jOoLaJoOlA.OrG&allowInsecure=1&type=ws&host=IyFpLkXk10.jOoLaJoOlA.OrG&path=%2F#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A8.75ms
+vless://080ab9d1-66da-4711-96c6-9bdeb6c90093@31.7.73.146:17778?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B7%C2%AE%EF%B8%8FIran%C2%A9%EF%B8%8FTehran%F0%9F%85%BF%EF%B8%8Fping%3A126.45ms
+vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?encryption=none&security=tls&sni=vless8-ekh.pages.dev&alpn=h3&fp=random&allowInsecure=1&type=ws&host=vless8-ekh.pages.dev&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AD%F0%9F%87%B0%C2%AE%EF%B8%8FHong%20Kong%C2%A9%EF%B8%8FSan%20Po%20Kong%F0%9F%85%BF%EF%B8%8Fping%3A8.06ms
+vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?encryption=none&security=none&type=ws&host=onlytesla1.xz027.com&path=%2F#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A8.02ms
+vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@147.185.161.46:2053?encryption=none&security=tls&sni=019309B7.XyZ0.PaGeS.dEV&fp=randomized&allowInsecure=1&type=ws&host=019309B7.XyZ0.PaGeS.dEV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8%C2%AE%EF%B8%8FUnited%20States%C2%A9%EF%B8%8FPalo%20Alto%20%28Downtown%20North%29%F0%9F%85%BF%EF%B8%8Fping%3A7.92ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8%C2%AE%EF%B8%8FUnited%20States%C2%A9%EF%B8%8FNew%20York%F0%9F%85%BF%EF%B8%8Fping%3A30.86ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FParis%F0%9F%85%BF%EF%B8%8Fping%3A46.27ms
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?encryption=none&security=tls&sni=kawaiifreevpn-7ds.pages.dev&fp=random&allowInsecure=1&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A8.22ms
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?encryption=none&security=tls&sni=azadnet1-706.pages.dev&fp=randomized&allowInsecure=1&type=ws&host=azadnet1-706.pages.dev&path=%2Fazadnet1-706.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A7.8ms
+vless://b513838e-b2ed-41ed-a675-e4ca0428d6d1@78.109.193.198:59722?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B7%C2%AE%EF%B8%8FIran%C2%A9%EF%B8%8FTehran%F0%9F%85%BF%EF%B8%8Fping%3A112.92ms
+vless://199ff20d-9bb4-423a-b759-e538392a27b6@fxs.samiion73.ir:8080?encryption=none&security=reality&sni=www.chatgpt.com&fp=chrome&pbk=TcTr1oUPAg6fEwLl8NdVInMRQOb-74dRRxh6gwbZVkw&sid=a3f994823291&allowInsecure=1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B5%F0%9F%87%B1%C2%AE%EF%B8%8FPoland%C2%A9%EF%B8%8FWarsaw%F0%9F%85%BF%EF%B8%8Fping%3A36.84ms
+vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?encryption=none&security=none&sni=onlytesla.xz027.com&type=ws&host=onlytesla.xz027.com&path=%2F#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A8.02ms
+vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?encryption=none&security=tls&sni=NExtfilmtOmovies.sitE&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=nextfilmtomovies.site&path=%2F9EkfcCDedhvB19xj%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A8.21ms
+vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?encryption=none&security=tls&sni=019309B7.XyZ0.PaGeS.dEV&allowInsecure=1&type=ws&host=019309B7.XyZ0.PaGeS.dEV&path=%2Fyzejftqqvmhtztle%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8%C2%AE%EF%B8%8FUnited%20States%C2%A9%EF%B8%8FWashington%20D.C.%F0%9F%85%BF%EF%B8%8Fping%3A8.29ms
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized&allowInsecure=1&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2F#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A8.12ms
+vless://5879d109-8c92-448a-801b-3f3989019934@104.18.26.90:443?encryption=none&security=tls&sni=pages.dev&allowInsecure=1&type=ws&host=tbs-80p.pages.dev&path=%2FTelegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A7.97ms
+vless://711627d2-1662-4e98-a3d6-086fd4fd4d31@104.16.14.1:443?encryption=none&security=tls&sni=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev&path=%2FiqySBCJZh3v7AmTx%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A8.33ms
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=0YmCqZoD33.eMsHaBkHoBe.OrG&allowInsecure=1&type=ws&host=0YmCqZoD33.eMsHaBkHoBe.OrG&path=%2F#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A8.55ms
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?encryption=none&security=tls&sni=smart.v2plusify.org&fp=chrome&allowInsecure=1&type=ws&host=smart.v2plusify.org&path=%2F#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A8.3ms
+vless://4b7e41a7-0c05-442a-9c92-28c37afc3eab@oxg4.aivideosurfers.com:8888?encryption=none&security=reality&sni=tgju.org&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9&allowInsecure=1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%AE%C2%AE%EF%B8%8FFinland%C2%A9%EF%B8%8FHelsinki%F0%9F%85%BF%EF%B8%8Fping%3A13.81ms
+vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.47.15:443?encryption=none&security=tls&sni=GgGgr.PaGES.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=ggggr.pages.dev&path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A8.43ms
+vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?encryption=none&security=tls&sni=gGHDFa.pAgeS.Dev&fp=randomized&allowInsecure=1&type=ws&host=gghdfa.pages.dev&path=%2F8WuhXm4QjK0L68Uf%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A7.86ms
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?encryption=none&security=tls&sni=simorgh.hpcode.ir&fp=firefox&allowInsecure=1&type=ws&host=simorgh.hpcode.ir&path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D%40vpnserverrr_vpnserverrr_vpnserverrr#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%BE%C2%AE%EF%B8%8FCyprus%C2%A9%EF%B8%8FNicosia%F0%9F%85%BF%EF%B8%8Fping%3A8.18ms
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@206.71.158.10:443?encryption=none&security=tls&sni=statue.lnmarketplace.net&alpn=h2&allowInsecure=1&type=xhttp&host=statue.lnmarketplace.net&path=%2Fstatue%2F%3Fv2rayng_fars----%40v2rayng_fars&mode=stream-one#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B3%F0%9F%87%B1%C2%AE%EF%B8%8FThe%20Netherlands%C2%A9%EF%B8%8FAmsterdam%F0%9F%85%BF%EF%B8%8Fping%3A30.0ms
+vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?encryption=none&security=tls&sni=gghdfa.pages.dev&allowInsecure=1&type=ws&host=gghdfa.pages.dev&path=%2F8WuhXm4QjK0L68Uf%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A7.86ms
+vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?encryption=none&security=tls&sni=ensHOLP-91s.pageS.DEv&fp=randomized&allowInsecure=1&type=ws&host=ensHOLP-91s.pageS.DEv&path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A7.78ms
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?encryption=none&security=tls&sni=NExtfilmtOmovies.sitE&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=nextfilmtomovies.site&path=%2F9EkfcCDedhvB19xj%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A8.47ms
+vless://8ca4ca74-fa0c-4c18-86c5-ce6d0382ff14@104.21.32.1:2096?encryption=none&security=tls&sni=DO-iTforyOu-E1P.PAgeS.dEV&fp=chrome&allowInsecure=1&type=ws&host=DO-iTforyOu-E1P.PAgeS.dEV&path=%2F#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A7.95ms
+vless://7c6ef990-3d7f-4653-ad7c-5cd12fbc2fb6@xpanel.panelfreedom.com:2090?encryption=none&security=reality&sni=refersion.com&fp=firefox&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&allowInsecure=1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FNuremberg%F0%9F%85%BF%EF%B8%8Fping%3A36.05ms
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=DcQu6VaQaY.vPbEtHoRvP002.iNfO&alpn=h3h2&allowInsecure=1&type=ws&host=DcQu6VaQaY.vPbEtHoRvP002.iNfO&path=%2F#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A8.7ms
+vless://60bc841c-cfbd-408f-889b-473f90bb4a26@micro.slumbo.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=random&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&sid=190d32b118caf07f&allowInsecure=1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FNuremberg%F0%9F%85%BF%EF%B8%8Fping%3A40.23ms
+vless://4b7e41a7-0c05-442a-9c92-28c37afc3eab@oxg3.aivideosurfers.com:7777?encryption=none&security=reality&sni=tgju.org&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9&allowInsecure=1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B7%C2%AE%EF%B8%8FIran%C2%A9%EF%B8%8FKhorramshahr%F0%9F%85%BF%EF%B8%8Fping%3A36.08ms
+vless://4b7e41a7-0c05-442a-9c92-28c37afc3eab@oxg1.aivideosurfers.com:7777?encryption=none&security=reality&sni=tgju.org&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9&allowInsecure=1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B7%C2%AE%EF%B8%8FIran%C2%A9%EF%B8%8FKhorramshahr%F0%9F%85%BF%EF%B8%8Fping%3A34.86ms
+vless://4b7e41a7-0c05-442a-9c92-28c37afc3eab@oxg2.aivideosurfers.com:7777?encryption=none&security=reality&sni=tgju.org&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9&allowInsecure=1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B7%C2%AE%EF%B8%8FIran%C2%A9%EF%B8%8FKhorramshahr%F0%9F%85%BF%EF%B8%8Fping%3A33.26ms
